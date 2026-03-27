@@ -42,8 +42,8 @@ pip install opencv-python numpy pillow
 python code.py
 ```
 3. Select image type: single/stereo
-4. Load image and click **处理图像** to process
-5. Click **开启测量** to obtain real physical distance (mm)
+4. Load image and click **Image processing** to process
+5. Click **Start measurement** to obtain real physical distance (mm)
 
 ---
 
@@ -75,12 +75,30 @@ The dataset used in this study includes underwater fish images in various scenar
 
 Dataset is available upon publication.
 
+Public Benchmark Dataset
+The paper uses the public underwater fish dataset published by Luo et al. (2025) in Sensors for model validation (the dataset is the benchmark of MasYOLOv11).
+The public dataset used in the experiment is cited as follows:
+@Article{s25113433,
+AUTHOR = {Luo, Yang and Wu, Aiping and Fu, Qingqing},
+TITLE = {MAS-YOLOv11: An Improved Underwater Object Detection Algorithm Based on YOLOv11},
+JOURNAL = {Sensors},
+VOLUME = {25},
+YEAR = {2025},
+NUMBER = {11},
+ARTICLE-NUMBER = {3433},
+URL = {https://www.mdpi.com/1424-8220/25/11/3433},
+PubMedID = {40968954},
+ISSN = {1424-8220},
+}
+
+
+
 ---
 
 ## 7. Code & Data Availability
 - GitHub: https://github.com/2701749708-wq/AHE-GrabCut-Fish-Morphology/tree/main
 - Code DOI: https://doi.org/10.5281/zenodo.19253733
-- Dataset DOI: Will be added after Zenodo release
+- Dataset DOI: https://doi.org/10.5281/zenodo.19255131
 
 ---
 
