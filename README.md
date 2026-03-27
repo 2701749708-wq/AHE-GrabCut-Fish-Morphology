@@ -97,8 +97,8 @@ ISSN = {1424-8220},
 
 ## 7. Code & Data Availability
 - GitHub: https://github.com/2701749708-wq/AHE-GrabCut-Fish-Morphology/tree/main
-- Code DOI: https://doi.org/10.5281/zenodo.19253733
-- Dataset DOI: https://doi.org/10.5281/zenodo.19255131
+- Code DOI: 10.5281/zenodo.19253733
+- Dataset DOI: 10.5281/zenodo.19255131
 
 ---
 
