@@ -79,7 +79,7 @@ Dataset is available upon publication.
 
 ## 7. Code & Data Availability
 - GitHub: https://github.com/2701749708-wq/AHE-GrabCut-Fish-Morphology/tree/main
-- Code DOI: Will be added after Zenodo release
+- Code DOI: https://doi.org/10.5281/zenodo.19253733
 - Dataset DOI: Will be added after Zenodo release
 
 ---
