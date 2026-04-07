@@ -1,9 +1,9 @@
 # Enhanced Underwater Fish Morphology Quantification via AHE-GrabCut Fusion and Binocular Stereo Vision
 
-This is the official implementation for the manuscript submitted to **The Visual Computer**.
+This is the official implementation for the manuscript submitted to **Multimedia Systems**.
 
 > Important Notice
-> This code is directly associated with the manuscript submitted to *The Visual Computer*. If you use this code or dataset in your research, please cite our corresponding paper.
+> This code is directly associated with the manuscript submitted to *Multimedia Systemsr*. If you use this code or dataset in your research, please cite our corresponding paper.
 
 ---
 
